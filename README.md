@@ -1,4 +1,4 @@
-# Segregator
+# Segregator (JavaFX)
 Gra o segregacji śmieci stworzona na projekt JPWP
 
 
